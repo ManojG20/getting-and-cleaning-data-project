@@ -1,2 +1,2 @@
-getting-and-cleaning-data-project
-=================================
+Getting And Cleaning Data - Course Project
+==========================================
