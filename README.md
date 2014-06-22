@@ -15,3 +15,6 @@ Course Project
     * Appropriately labels the data set with descriptive variable names.
     * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 6. The created tidy dataset will be there in the working directory, named `tidy_data.txt`
+7. Required Packages
+    * reshape2
+    * data.table
